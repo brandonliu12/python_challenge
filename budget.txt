@@ -1,0 +1,3 @@
+Financial analysis----------------------------Total Months: 86Total: 22564198Average Change: {formatted_average_change}----------------------------Greatest Increase in Profits:       Date  Profit/Losses
+38  Mar-13        1141840----------------------------Greatest Decrease in Profits:       Date  Profit/Losses
+11  Dec-10       -1194133
